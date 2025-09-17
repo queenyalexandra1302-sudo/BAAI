@@ -9,3 +9,4 @@
 
 # 3. Output
 print('Hello Tunghai University!')
+print("abcdefg")
